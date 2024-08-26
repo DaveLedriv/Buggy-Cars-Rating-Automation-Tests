@@ -27,7 +27,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd buggy-cars-rating-automation
+    cd Buggy-Cars-Rating-Automation-Tests
     ```
 3. Instala las dependencias:
     ```bash
