@@ -23,7 +23,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/DaveLedriv/buggy-cars-rating-automation.git
+    git clone https://github.com/DaveLedriv/Buggy-Cars-Rating-Automation-Tests.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
